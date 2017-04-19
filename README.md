@@ -1,5 +1,9 @@
-# Firebase SDK for Cloud Functions Codelab - Start code
+# Firebase SDK for cloud Functions Codelab
 
-This folder contains the start code of the [Firebase SDK for Cloud Functions Codelab](https://codelabs.developers.google.com/codelabs/firebase-cloud-functions/).
+Project created following the codelab at [Firebase: Build a Real Time Web Chat App Codelab](https://codelabs.developers.google.com/codelabs/firebase-web/).
 
-If you'd like to jump directly to the end and see the finished code head to the [cloud-functions](../cloud-functions) directory.
+# Usage
+
+Enter [Firebase Chat](https://friendlychat-c1687.firebaseapp.com/)
+
+Login with your google account and enjoy!
